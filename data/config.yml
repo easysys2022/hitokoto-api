@@ -1,6 +1,6 @@
 name: 'hitokoto' # 服务名称，例如：hitokoto
-url: 'https://hitokoto.esy.ink' # 服务地址，例如：https://v1.hitokoto.cn
-api_name: 'demo_prprpr' # 服务标识，取个好区分的标识吧，例如：cd-01-demo
+url: 'https://hitokoto-api-beta.vercel.app' # 服务地址，例如：https://v1.hitokoto.cn
+api_name: 'demo' # 服务标识，取个好区分的标识吧，例如：cd-01-demo
 server: # 配置 HTTP 服务的信息
   host: 127.0.0.1 # 监听的地址
   port: 8000 # 监听的端口
